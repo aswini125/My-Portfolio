@@ -12,12 +12,12 @@ var contactString = `
             <img class='socialItemI' src='images/gmail.svg' alt=''>
         </div> 
     </a> 
-    <a target='_blank' href='https://github.com/your-github-profile'> 
+    <a target='_blank' href='https://github.com/aswini125'> 
         <div class='socialItem'>
             <img class='socialItemI' src='images/github.svg' alt=''>
         </div> 
     </a> 
-    <a target='_blank' href='https://wa.me/919931860964'> 
+    <a target='_blank' href='https://wa.me/9384631250'> 
         <div class='socialItem'>
             <img class='socialItemI' src='images/whatsapp.svg' alt=''>
         </div> 
