@@ -17,11 +17,7 @@ var contactString = `
             <img class='socialItemI' src='images/github.svg' alt=''>
         </div> 
     </a> 
-    <a target='_blank' href='https://wa.me/9384631250'> 
-        <div class='socialItem'>
-            <img class='socialItemI' src='images/whatsapp.svg' alt=''>
-        </div> 
-    </a> 
+   
     <a target='_blank' href='https://www.linkedin.com/in/aswinirvm-65b750300/'> 
         <div class='socialItem'>
             <img class='socialItemI' src='images/linkedin.svg' alt=''>
